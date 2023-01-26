@@ -1,12 +1,12 @@
-# Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/harshraj6982/developer-portfolio?color=blue)](https://github.com/harshraj6982/Portfolio-Website/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/harshraj6982/Portfolio-Website)](https://github.com/harshraj6982/Portfolio-Website/stargazers) [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+# Harsh Raj Portfolio ⚡️
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
-<p align="center">
+<!-- <p align="center">
   <kbd>
 <img src="https://user-images.githubusercontent.com/53429438/106779355-e9cd9e80-666c-11eb-9417-8a4b54441bc6.gif"></img>
   </kbd>
-</p>
+</p> -->
 
 Just change `src/portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
